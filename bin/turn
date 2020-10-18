@@ -7,3 +7,4 @@ display_board(board)
 turn(board)
 
 puts "please enter 1-9"
+gets.strip
